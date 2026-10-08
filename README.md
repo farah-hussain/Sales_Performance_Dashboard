@@ -1,2 +1,2 @@
 # Sales_Performance_Dashboard
-An end-to-end data analysis project analyzing retail sales store data using Excel.
+An interactive Sales Performance Dashboard built in Excel, featuring visual charts, KPIs, and sales trends analysis.
